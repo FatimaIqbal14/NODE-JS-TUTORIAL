@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Doe",
+    "position": "Software Engineer",
+    "department": "IT"
+  },
+  {
+    "id": 2,
+    "firstname": "Jane",
+    "lastname": "Smith",
+    "position": "Product Manager",
+    "department": "Product"
+  },
+  {
+    "id": 3,
+    "firstname": "Mike",
+    "lastname": "Johnson",
+    "position": "UX Designer",
+    "department": "Design"
+  },
+  {
+    "id": 4,
+    "firstname": "Sarah",
+    "lastname": "Williams",
+    "position": "Data Analyst",
+    "department": "Analytics"
+  },
+  {
+    "id": 5,
+    "firstname": "David",
+    "lastname": "Brown",
+    "position": "DevOps Engineer",
+    "department": "IT"
+  }
+]
